@@ -1,0 +1,45 @@
+<html>
+  
+    <head>
+        <link rel="stylesheet" 
+          href="https://www.w3schools.com/w3css/4/w3.css">
+        
+    </head>
+
+   <div id="d1">
+    
+    <h1>Target Feature Value</h1>
+    <body>
+        <p>Features:{{features}}</p>
+        <p>Values:{{values}}</p>
+        <p>Target Feature:{{target}}</p>
+        <p>Output: {{fet}}</p></body>
+        
+       <a href="{{ url_for('queries') }}"><button type="submit" 
+        class="w3-teal w3-hover-green 
+        w3-round w3-button">
+            Back to Home page
+    </button> </a>
+            
+       <style>
+        #d1 {
+          width: 500px;
+          height: 400px;
+          padding: 10px;
+          border: 5px solid gray;
+          margin: 0;
+          margin-left: 500px;
+          background-color: white;
+        }
+     
+body {
+  background-image: url('static/img1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+}
+
+
+        </style>
+</html>

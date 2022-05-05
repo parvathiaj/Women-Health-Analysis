@@ -1,0 +1,8 @@
+Features,Coefficient
+"['accelerations', 'uterine_contractions']","[-54.33304662459268, -36.04753158269894]"
+"['accelerations', 'baseline_value']","[-55.66107428979825, 0.007313830666898658]"
+"['baseline_value', 'uterine_contractions']","[0.49872527028220054, -1225.472664726308]"
+"['baseline_value', 'mean_value_of_long_term_variability']","[0.5276927478085849, -0.9445364914051781]"
+"['baseline_value', 'mean_value_of_long_term_variability', 'accelerations', 'histogram_min', 'histogram_max']","[0.46227835299219666, -1.040748827485516, -1210.1776076290903, 0.04160402349033954, -0.04201930826158762]"
+"['fetal_movement', 'accelerations', 'baseline_value', 'uterine_contractions', 'histogram_min']","[1.2111966729748327, -54.464555491273764, 0.007044332198220538, -32.785745878838384, -0.0005992079246510684]"
+"['fetal_movement', 'accelerations', 'baseline_value', 'uterine_contractions', 'histogram_max']","[1.1047074341212737, -60.724925736539234, 0.00421497588215658, -35.75561067752763, 0.0037241709104449683]"
